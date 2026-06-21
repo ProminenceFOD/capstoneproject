@@ -1,0 +1,1 @@
+# Traceability Matrix\n\n| Requirement | User Story | Test Case | Status |\n|-------------|------------|-----------|--------|\n| R1 | As a user, I want ... | TC1 | Not Implemented |\n| R2 | As a developer, I need ... | TC2 | Not Implemented |\n\n*Populate with actual requirements, stories, and tests.*\n

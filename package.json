@@ -1,0 +1,12 @@
+{
+  "name": "devops-capstone-2026",
+  "version": "0.1.0",
+  "description": "Placeholder project for IBM DevOps Capstone 2026",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo \"lint placeholder\"",
+    "test": "echo \"test placeholder\""
+  },
+  "author": "",
+  "license": "MIT"
+}
