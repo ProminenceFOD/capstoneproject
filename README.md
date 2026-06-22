@@ -1,4 +1,4 @@
-# DevOps Capstone 2026
+# ci-cd-final-project
 
 ![Build Status](https://github.com/your-username/devops-capstone-2026/actions/workflows/ci-build.yaml/badge.svg)
 
